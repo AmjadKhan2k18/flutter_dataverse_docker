@@ -26,7 +26,7 @@ samples, guidance on mobile development, and a full API reference.
 
  - static const webapiurl = "$url/api/data/v" + version + "/";
  - static const clientId = 'clientId';
- - static const azureTenantId = "yourTenantId";  [Lab: how to get tenantId](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
+ - static const azureTenantId = "yourTenantId"; 
  - static const redirectUrl = 'http://localhost:5050/authRedirect.html';
 
 ```
