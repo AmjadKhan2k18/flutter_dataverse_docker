@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "2. Launch Flutter Web App (DEV)",
+        "request": "launch",
+        "type": "dart",
+        "program": "lib/main.dart",
+        "args": [
+          "-d", "chrome",
+          "--web-port", "5050"
+        ]
+      },
+    ]
+  }
